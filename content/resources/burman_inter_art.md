@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/927f8afe974aa94c4237ce29084982de_burman_inter_art.pdf
+file: /media/courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/927f8afe974aa94c4237ce29084982de_burman_inter_art.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: burman_inter_art.pdf
 uid: 927f8afe-974a-a94c-4237-ce29084982de

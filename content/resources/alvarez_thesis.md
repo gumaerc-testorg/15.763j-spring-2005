@@ -9,8 +9,13 @@ description: The thesis proposes a method for introducing cellular manufacturing
   parts for commercial customers is implemented at Boeing?s Defense and Space Group
   Machining Center.  The conclusions of the thesis highlight the key lessons learned
   from thisprocess.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/fa9a0dee83c3b0a908a99c69f0508691_alvarez_thesis.pdf
+file: /media/courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/fa9a0dee83c3b0a908a99c69f0508691_alvarez_thesis.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: alvarez_thesis.pdf
 uid: fa9a0dee-83c3-b0a9-08a9-9c69f0508691

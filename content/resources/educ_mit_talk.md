@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/31d2f5febc90b8e3f6e0cfc11e325a46_educ_mit_talk.pdf
+file: /media/courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/31d2f5febc90b8e3f6e0cfc11e325a46_educ_mit_talk.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: educ_mit_talk.pdf
 uid: 31d2f5fe-bc90-b8e3-f6e0-cfc11e325a46
