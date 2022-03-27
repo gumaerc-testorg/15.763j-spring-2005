@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 16cd8037-8a80-d9e3-5548-d52ab9f2607f
 resourcetype: Document
 title: design_lean_sysm.pdf
 uid: c9cf91fd-c8f5-9784-d93e-2a0a13957c74

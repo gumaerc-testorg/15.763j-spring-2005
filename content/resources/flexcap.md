@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 16cd8037-8a80-d9e3-5548-d52ab9f2607f
 resourcetype: Document
 title: flexcap.pdf
 uid: 7a2588d4-bd58-2265-f188-0ae8b3e8c311

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 16cd8037-8a80-d9e3-5548-d52ab9f2607f
 resourcetype: Document
 title: the_metalwks_cor.pdf
 uid: e96cfc16-a4f9-3c70-84cc-87faa15bfe77

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 16cd8037-8a80-d9e3-5548-d52ab9f2607f
 resourcetype: Document
 title: furey_thesis.pdf
 uid: ac792455-e52f-59da-ec0f-29804eca2f0b

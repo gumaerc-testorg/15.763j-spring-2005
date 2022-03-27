@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b2fe63df-326b-f4e2-316e-6d639758a351
 resourcetype: Document
 title: queueing_mdl_ass.pdf
 uid: 43ab5916-07eb-4504-0448-80cfc5771f4b

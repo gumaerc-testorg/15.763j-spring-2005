@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 16cd8037-8a80-d9e3-5548-d52ab9f2607f
 resourcetype: Document
 title: educ_mit_talk.pdf
 uid: 31d2f5fe-bc90-b8e3-f6e0-cfc11e325a46

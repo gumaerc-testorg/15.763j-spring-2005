@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b2fe63df-326b-f4e2-316e-6d639758a351
 resourcetype: Document
 title: flexcap_assig_05.pdf
 uid: 1c7cdee1-07e2-2aac-8685-c38dc0b78fa9
