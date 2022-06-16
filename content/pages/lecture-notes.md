@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes detailed lecture material used in this course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -35,11 +36,11 @@ Introduction and Course Overview
 {{< tdopen >}}
 
 
-Class Introduction ([PDF]({{< baseurl >}}/resources/classintro))
+Class Introduction ({{% resource_link 297a9416-e7c1-55a2-efae-7890f667dd2a "PDF" %}})
 
-Case Study: Use of a Queueing Model to Design a Lean System ([PDF]({{< baseurl >}}/resources/design_lean_sysm)) (Jamie W. Flinchbaugh)
+Case Study: Use of a Queueing Model to Design a Lean System ({{% resource_link c9cf91fd-c8f5-9784-d93e-2a0a13957c74 "PDF" %}}) (Jamie W. Flinchbaugh)
 
-Lean Factory Spreadsheet ([XLS]({{< baseurl >}}/resources/lean_factory))
+Lean Factory Spreadsheet ({{% resource_link 54c68e8b-6d27-9cbd-3c4f-ce4225dfeee9 "XLS" %}})
 
 
 {{< tdclose >}}
@@ -61,17 +62,17 @@ Class will introduce and discuss key topics in manufacturing system design by me
 {{< tdopen >}}
 
 
-Design of Manufacturing System ([PDF]({{< baseurl >}}/resources/desgn_of_man_sys))
+Design of Manufacturing System ({{% resource_link 77f6168d-2f6d-75ba-c3ea-03005aada9c9 "PDF" %}})
 
-Queuing for System Design ([PDF]({{< baseurl >}}/resources/que_for_sys_desn))
+Queuing for System Design ({{% resource_link 6bf697f7-a9f1-ca2d-2430-b2662b068ca4 "PDF" %}})
 
-After the Race ([PDF]({{< baseurl >}}/resources/queueing_note))
+After the Race ({{% resource_link 22f48058-64de-b06e-ee85-acc1601463ba "PDF" %}})
 
-Design and Implementation of Cellular Manufacturing in a Job Shop Environment ([PDF]({{< baseurl >}}/resources/alvarez_thesis)) (Liana Maria Alvarez Lopez)
+Design and Implementation of Cellular Manufacturing in a Job Shop Environment ({{% resource_link fa9a0dee-83c3-b0a9-08a9-9c69f0508691 "PDF" %}}) (Liana Maria Alvarez Lopez)
 
-Decision Elements in the Design of a Consumer Electronics Assembly Plant ([PDF]({{< baseurl >}}/resources/furey_thesis)) (Thomas M. Furey)
+Decision Elements in the Design of a Consumer Electronics Assembly Plant ({{% resource_link ac792455-e52f-59da-ec0f-29804eca2f0b "PDF" %}}) (Thomas M. Furey)
 
-Concurrently Designing a Physical Production System and an Information System in a Manufacturing Setting ([PDF - 1.9 MB]({{< baseurl >}}/resources/katzen_thesis)) (James Alexander Scott Katzen)
+Concurrently Designing a Physical Production System and an Information System in a Manufacturing Setting ({{% resource_link 8622a024-d55e-d8ca-5b88-04adeda29280 "PDF - 1.9 MB" %}}) (James Alexander Scott Katzen)
 
 
 {{< tdclose >}}
@@ -85,7 +86,7 @@ Concurrently Designing a Physical Production System and an Information System in
 Manufacturing System Design: Service Systems
 {{< tdclose >}}
 {{< tdopen >}}
-Implementing Lean Manufacturing Through Factory Design ([PDF - 1.1 MB]({{< baseurl >}}/resources/flinchbaugh_thes)) (Jamie W. Flinchbaugh)
+Implementing Lean Manufacturing Through Factory Design ({{% resource_link 8b9f9d94-0167-edf6-0165-ac7a82a3fa84 "PDF - 1.1 MB" %}}) (Jamie W. Flinchbaugh)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +116,7 @@ Guest speaker: Dr. Mitchell Burman, Analytics, Inc. Boston, MA. In this class we
 
 {{< tdclose >}}
 {{< tdopen >}}
-The Use of Operations Research Techniques to Improve the Design of a Hewlett-Packard Printer Production Line ([PDF]({{< baseurl >}}/resources/educ_mit_talk)) (Mitchell Burman)
+The Use of Operations Research Techniques to Improve the Design of a Hewlett-Packard Printer Production Line ({{% resource_link 31d2f5fe-bc90-b8e3-f6e0-cfc11e325a46 "PDF" %}}) (Mitchell Burman)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,9 +190,9 @@ Design of a Supply Chain for a New Product
 {{< tdopen >}}
 
 
-Optimizing the Supply-Chain Configuration for New Products ([PDF]({{< baseurl >}}/resources/msom_2000)) (Prof. Stephen C. Graves and Sean P. Willems)
+Optimizing the Supply-Chain Configuration for New Products ({{% resource_link fb474af7-9e41-740f-70fb-e086921ab1eb "PDF" %}}) (Prof. Stephen C. Graves and Sean P. Willems)
 
-Optimizing the Supply-Chain Configuration for New Products ([PDF]({{< baseurl >}}/resources/sip_configuon_05)) (Prof. Stephen C. Graves and Sean P. Willems)
+Optimizing the Supply-Chain Configuration for New Products ({{% resource_link b2932d6a-274b-12c4-728c-a0638d825d13 "PDF" %}}) (Prof. Stephen C. Graves and Sean P. Willems)
 
 
 {{< tdclose >}}
@@ -243,9 +244,9 @@ Flexibility and Capacity Planning
 {{< tdopen >}}
 
 
-Flexibility and Capacity Planning ([PDF]({{< baseurl >}}/resources/flexcap))
+Flexibility and Capacity Planning ({{% resource_link 7a2588d4-bd58-2265-f188-0ae8b3e8c311 "PDF" %}})
 
-Multi-Stage Flexibility ([PDF]({{< baseurl >}}/resources/multi_stage_flex))
+Multi-Stage Flexibility ({{% resource_link 744b2981-84dd-4c1e-7b57-b60d718a493e "PDF" %}})
 
 
 {{< tdclose >}}
@@ -259,7 +260,7 @@ Multi-Stage Flexibility ([PDF]({{< baseurl >}}/resources/multi_stage_flex))
 Class Summary and Wrap Up
 {{< tdclose >}}
 {{< tdopen >}}
-Class Summary ([PDF]({{< baseurl >}}/resources/summary))
+Class Summary ({{% resource_link e1800430-fdcc-af61-8b22-bd551fc00fac "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

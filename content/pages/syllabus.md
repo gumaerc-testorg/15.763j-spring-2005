@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section contains a course outline and course requirement
+  for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

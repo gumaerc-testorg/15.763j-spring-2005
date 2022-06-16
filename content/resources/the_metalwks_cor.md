@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/e96cfc16a4f93c7084cc87faa15bfe77_the_metalwks_cor.pdf
+file: /courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/e96cfc16a4f93c7084cc87faa15bfe77_the_metalwks_cor.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/ecdf001ac8c09d52830f132ac77f690a_tng_scg_base.xls
+file: /courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/ecdf001ac8c09d52830f132ac77f690a_tng_scg_base.xls
 file_type: application/octet-stream
 learning_resource_types:
 - Lecture Notes

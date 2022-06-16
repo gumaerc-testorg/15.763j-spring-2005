@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/a565b027ebe6dcb420b382661cc3ca6a_Burman_Interface_article.pdf
+file: /courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/a565b027ebe6dcb420b382661cc3ca6a_Burman_Interface_article.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

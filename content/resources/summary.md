@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains review of class sessions.
-file: /media/courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/e1800430fdccaf618b22bd551fc00fac_summary.pdf
+file: /courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/e1800430fdccaf618b22bd551fc00fac_summary.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: summary.pdf
 uid: e1800430-fdcc-af61-8b22-bd551fc00fac
 ---
+This resource contains review of class sessions.
+

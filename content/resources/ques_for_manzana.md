@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains 5 problems to test students understanding.
-file: /media/courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/3ea58c65898c3c4894b5b9eed855b6c2_ques_for_manzana.pdf
+file: /courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/3ea58c65898c3c4894b5b9eed855b6c2_ques_for_manzana.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: ques_for_manzana.pdf
 uid: 3ea58c65-898c-3c48-94b5-b9eed855b6c2
 ---
+This resource contains 5 problems to test students understanding.
+
