@@ -7,6 +7,7 @@ file: /courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: man_ins_fru_bran.pdf
 uid: e4427d7e-46a2-403f-0eee-082712852c48
 ---
 This resource contains presentation on manzana insurance and examine design of a service operation, diagnose root causes for poor service and develop recommendations to remedy.
-

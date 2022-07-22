@@ -6,6 +6,7 @@ file: /courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: queueing_note.pdf
 uid: 22f48058-64de-b06e-ee85-acc1601463ba
 ---
 This resource contains basic queueing theory, approximation for general arrival process, general service times, assumptions and analysis.
-

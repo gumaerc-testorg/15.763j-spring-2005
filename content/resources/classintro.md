@@ -6,6 +6,7 @@ file: /courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: classintro.pdf
 uid: 297a9416-e7c1-55a2-efae-7890f667dd2a
 ---
 This resource contains presentation on manufacturing system design, supply chain design and flexibility and capacity planning.
-

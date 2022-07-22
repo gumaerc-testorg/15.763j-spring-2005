@@ -6,6 +6,7 @@ file: /courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lean_sys_que_mod.pdf
 uid: 2f4409ee-a89e-36c4-66df-d0a368a6c738
 ---
 This resource conatins presentaion and provides information regarding automobile assembly, design issues, spreadsheet model and queueing model.
-

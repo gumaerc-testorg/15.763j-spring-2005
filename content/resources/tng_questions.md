@@ -5,6 +5,7 @@ file: /courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: tng_questions.pdf
 uid: 44f3840c-9ce9-3d8c-6513-81e1c5d99a50
 ---
 This resource contains 5 problems to test students understanding.
-

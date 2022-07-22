@@ -6,6 +6,7 @@ file: /courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: multi_stage_flex.pdf
 uid: 744b2981-84dd-4c1e-7b57-b60d718a493e
 ---
 This resource contains presentation on phenomena that affect multiple-stage supply chains i.e floating bottlenecks and stage-spanning bottlenecks.
-

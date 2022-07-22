@@ -5,6 +5,7 @@ file: /courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ques_for_manzana.pdf
 uid: 3ea58c65-898c-3c48-94b5-b9eed855b6c2
 ---
 This resource contains 5 problems to test students understanding.
-
