@@ -5,6 +5,7 @@ description: This resource contains an assignment work submitted by group of stu
   inform one or more key design decisions, and illustrates the application of the
   model with your rough estimates of the system parameters.
 file: /courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/43ab591607eb4504044880cfc5771f4b_queueing_mdl_ass.pdf
+file_size: 11050
 file_type: application/pdf
 learning_resource_types:
 - Assignments
