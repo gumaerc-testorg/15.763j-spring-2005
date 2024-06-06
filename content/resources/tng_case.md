@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/0192def4ae163cd7f1fc898a57aa905d_tng_case.pdf
+file_size: 279106
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

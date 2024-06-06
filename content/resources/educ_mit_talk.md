@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/31d2f5febc90b8e3f6e0cfc11e325a46_educ_mit_talk.pdf
+file_size: 206813
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

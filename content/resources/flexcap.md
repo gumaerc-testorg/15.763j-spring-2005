@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains presentation on flexibility and capacity planning
   and also explains flex cap model and flexibility principles.
 file: /courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/7a2588d4bd582265f1880ae8b3e8c311_flexcap.pdf
+file_size: 509125
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
