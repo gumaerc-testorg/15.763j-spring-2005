@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/1c4359150fdb508625441afb1fd88375_ques_for_manzana.pdf
+file: /ol-ocw-studio-app/courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/1c4359150fdb508625441afb1fd88375_ques_for_manzana.pdf
 file_size: 9052
 file_type: application/pdf
 learning_resource_types:
