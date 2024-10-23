@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource conatins presentaion and provides information regarding
   automobile assembly, design issues, spreadsheet model and queueing model.
-file: /courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/2f4409eea89e36c466dfd0a368a6c738_lean_sys_que_mod.pdf
+file: /ol-ocw-studio-app/courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/2f4409eea89e36c466dfd0a368a6c738_lean_sys_que_mod.pdf
 file_size: 79738
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains basic queueing theory, approximation for general
   arrival process, general service times, assumptions and analysis.
-file: /courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/22f4805864deb06eee85acc1601463ba_queueing_note.pdf
+file: /ol-ocw-studio-app/courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/22f4805864deb06eee85acc1601463ba_queueing_note.pdf
 file_size: 117164
 file_type: application/pdf
 learning_resource_types:
