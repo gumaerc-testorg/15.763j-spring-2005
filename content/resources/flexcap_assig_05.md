@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding the flexcap software.
-file: /courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/1c7cdee107e22aac8685c38dc0b78fa9_flexcap_assig_05.pdf
+file: /ol-ocw-studio-app/courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/1c7cdee107e22aac8685c38dc0b78fa9_flexcap_assig_05.pdf
 file_size: 30492
 file_type: application/pdf
 learning_resource_types:

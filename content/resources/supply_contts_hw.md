@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains procurement assignment on supply contract.
-file: /courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/6f3a6201b514b53e8f7d8ae411723b95_supply_contts_hw.pdf
+file: /ol-ocw-studio-app/courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/6f3a6201b514b53e8f7d8ae411723b95_supply_contts_hw.pdf
 file_size: 25200
 file_type: application/pdf
 learning_resource_types:

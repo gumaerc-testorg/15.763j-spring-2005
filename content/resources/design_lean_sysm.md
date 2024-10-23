@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about Toyota factory designers and
   various compensating techniques.
-file: /courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/c9cf91fdc8f59784d93e2a0a13957c74_design_lean_sysm.pdf
+file: /ol-ocw-studio-app/courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/c9cf91fdc8f59784d93e2a0a13957c74_design_lean_sysm.pdf
 file_size: 88079
 file_type: application/pdf
 learning_resource_types:
