@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains review of class sessions.
-file: /ol-ocw-studio-app/courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/e1800430fdccaf618b22bd551fc00fac_summary.pdf
+file: /courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/e1800430fdccaf618b22bd551fc00fac_summary.pdf
 file_size: 66130
 file_type: application/pdf
 learning_resource_types:
