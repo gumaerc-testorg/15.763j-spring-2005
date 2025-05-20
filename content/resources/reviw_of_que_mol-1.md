@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains little's law, markovian process, properties of
   a poisson process and conclusion.
-file: /ol-ocw-studio-app/courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/568c857501f6785e7b328a3cf3990705_reviw_of_que_mol.pdf
+file: /courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/568c857501f6785e7b328a3cf3990705_reviw_of_que_mol.pdf
 file_size: 183998
 file_type: application/pdf
 learning_resource_types:

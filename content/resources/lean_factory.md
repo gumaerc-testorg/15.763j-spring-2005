@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains spreadsheet providing information expected number
   of completed cars per day and their performance characterstics.
-file: /ol-ocw-studio-app/courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/54c68e8b6d279cbd3c4fce4225dfeee9_lean_factory.xls
+file: /courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/54c68e8b6d279cbd3c4fce4225dfeee9_lean_factory.xls
 file_size: 41984
 file_type: application/msword
 learning_resource_types:
