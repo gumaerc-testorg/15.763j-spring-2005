@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/33a398eb4b570f4407627b38f16a5163_seagatecase2002.pdf
+file: /courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/33a398eb4b570f4407627b38f16a5163_seagatecase2002.pdf
 file_size: 246506
 file_type: application/pdf
 learning_resource_types:
