@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains 5 problems to test students understanding.
-file: /courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/44f3840c9ce93d8c651381e1c5d99a50_tng_questions.pdf
+file: /ol-ocw-studio-app/courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/44f3840c9ce93d8c651381e1c5d99a50_tng_questions.pdf
 file_size: 29755
 file_type: application/pdf
 learning_resource_types:
