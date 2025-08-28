@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains presentation on manzana insurance and examine
   design of a service operation, diagnose root causes for poor service and develop
   recommendations to remedy.
-file: /courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/e4427d7e46a2403f0eee082712852c48_man_ins_fru_bran.pdf
+file: /ol-ocw-studio-app/courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/e4427d7e46a2403f0eee082712852c48_man_ins_fru_bran.pdf
 file_size: 63969
 file_type: application/pdf
 learning_resource_types:
