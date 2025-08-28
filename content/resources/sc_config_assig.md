@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains assignment on supply chain configuration.
-file: /courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/54afbbfb4cf75c46b14bd1eedac06d26_sc_config_assig.pdf
+file: /ol-ocw-studio-app/courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/54afbbfb4cf75c46b14bd1eedac06d26_sc_config_assig.pdf
 file_size: 24398
 file_type: application/pdf
 learning_resource_types:

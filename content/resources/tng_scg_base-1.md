@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/91cde358e30e89eb3b5896f8acc9434c_TNG_SCG_BASE.xls
+file: /ol-ocw-studio-app/courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/91cde358e30e89eb3b5896f8acc9434c_TNG_SCG_BASE.xls
 file_size: 36529
 file_type: application/octet-stream
 learning_resource_types:
